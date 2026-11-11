@@ -1,0 +1,15 @@
+本样品打包了以下开源字体，仅按 SIL Open Font License 1.1 使用：
+
+1. Noto Serif SC
+   Copyright 2016-2020 The Noto Authors / Google Inc.
+   License: SIL Open Font License 1.1（见 OFL-NotoSerifSC.txt）
+   Source: https://github.com/google/fonts/tree/main/ofl/notoserifsc
+   本目录中的 woff 为对常用汉字与标点的子集，便于离线和 file:// 打开。
+
+2. Libre Baskerville
+   Copyright 2012 The Libre Baskerville Project Authors
+   Reserved Font Name: Libre Baskerville
+   License: SIL Open Font License 1.1（见 OFL-LibreBaskerville.txt）
+   Source: https://github.com/google/fonts/tree/main/ofl/librebaskerville
+
+运行时不依赖 Google Fonts 或其他在线字体服务。

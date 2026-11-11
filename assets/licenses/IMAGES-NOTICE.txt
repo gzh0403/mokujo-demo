@@ -1,0 +1,11 @@
+本样品图片由工作室在本项目中生成，专用于「MOKUJO 木序」演示样品视觉，不含第三方商标或受保护的独特设计临摹。
+
+文件：
+- hero-salon.jpg    昭和复古沙龙室内
+- chair-detail.jpg  复古理发椅
+- still-tools.jpg   剪刀、木梳与器具静物
+- paper-texture.jpg 旧纸纹理
+- avatar-xiaolin.jpg / avatar-ayuan.jpg / avatar-xiaoxia.jpg
+  从上述室内与静物裁切的氛围图，作为虚拟发型师卡片配图，不是真人肖像。
+
+这些图像为演示样品原创生成素材，随样品一并交付使用。
